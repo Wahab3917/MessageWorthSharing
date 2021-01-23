@@ -335,7 +335,7 @@ header nav ul.menu li a:hover, header nav ul.menu li a:focus {
 }
 
 header .heading {
-  padding-top: 15vh;
+  padding-top: 100px;
   height: calc(100vh - 80px);
 }
 
@@ -348,6 +348,12 @@ header .heading {
 @media (max-width: 343px) {
   header .heading {
     padding-top: 15vh;
+  }
+}
+
+@media (max-width: 320px) {
+  header .heading {
+    padding-top: 10vh;
   }
 }
 
@@ -930,6 +936,12 @@ footer {
 @media (max-width: 768px) {
   footer {
     height: 500px;
+    text-align: center;
+  }
+  footer .logo-footer {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
   }
 }
 

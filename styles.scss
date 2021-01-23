@@ -320,15 +320,17 @@ header {
 
   // HERO
   .heading {
-    padding-top: 15vh;
+    padding-top: 100px;
     height: calc(100vh - 80px);
 
     @media (max-width: $lg) {
       padding-top: calc(35vh - 80px);
     }
     @media (max-width: 343px) {
-      padding-top: 15vh;
-      
+      padding-top: 15vh;   
+    }
+    @media (max-width: 320px) {
+      padding-top: 10vh;   
     }
 
     h1 {
@@ -804,6 +806,11 @@ footer {
 
   @media (max-width: $md) {
     height: 500px;
+    text-align: center;
+
+    .logo-footer {
+      justify-content: center;
+    }
   }
   @media (max-width: 459px)  {
     height: 550px;
