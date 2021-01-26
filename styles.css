@@ -469,7 +469,7 @@ header .page-scroller {
   height: 281.25px;
   position: relative;
   border-radius: 50px;
-  background-image: url("img/Untitled8.jpg");
+  background-image: url("img/img-1.jpg");
   background-size: cover;
 }
 
@@ -937,11 +937,6 @@ footer {
   footer {
     height: 500px;
     text-align: center;
-  }
-  footer .logo-footer {
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
   }
 }
 
