@@ -1,6 +1,7 @@
 # MessageWorthSharing
 BROCHURE WEBSITE (https://messageworthsharing.netlify.app/)
 <br>
+<br>
 Description:<br>
 A brochure website of a YouTube Channel (Content Creators) that spread worth sharing messages in the community.
 <br>
@@ -10,7 +11,7 @@ Tools Used:<br>
 •	  Sass<br>
 •	  Bootstrap<br>
 •	  JavaScript<br>
-•	  Figma (For Designing)<br>
+•	  Figma (For Designing)
 <br>
 <br>
 Skills Showing Here:<br>
