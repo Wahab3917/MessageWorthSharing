@@ -1,5 +1,5 @@
-# MessageWorthSharing
-BROCHURE WEBSITE (https://messageworthsharing.netlify.app/)
+# BROCHURE WEBSITE
+https://messageworthsharing.netlify.app/
 
 ## Description:
 A brochure website of a YouTube Channel (Content Creators) that spread worth sharing messages in the community.
